@@ -1,5 +1,5 @@
 # KT_AIVLE_BigProject
-## KT AIVLE Big Project: Hostoday
+## Hostoday
 ### Date: 2022/11/28 ~ 2023/1/11
 ### End: 2023/1/19
 ### Reward: 우수상 (KT, 고용노동부)
