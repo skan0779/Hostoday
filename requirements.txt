@@ -2,9 +2,11 @@ streamlit
 pandas
 numpy
 plotly
+shapely
 folium
-stramlit_folium
+streamlit_folium
 geopandas
 geopy
 shapely
 matplotlib
+openpyxl
