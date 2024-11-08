@@ -1,4 +1,5 @@
-# AIVLE School 빅프로젝트
+# AIVLE School 빅프로젝트 
+https://kt-aivle-bigproject-hostoday.streamlit.app/
 ## [Project] Hostoday (Airbnb 전환수익 예측)
 
 ### Step 1 : scrap all Airbnb dataset in real-time
