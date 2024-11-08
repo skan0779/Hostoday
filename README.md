@@ -1,5 +1,5 @@
 # AIVLE School 빅프로젝트
-## [Project] Hostoday (Airbnb 전환수익 예측)
+## [Project] Hostoday (Airbnb 전환수익 예측)
 
 ### Step 1 : scrap all Airbnb dataset in real-time
 ### Step 2 : scrap 국토교통부 5년 아파트 실거래 data
